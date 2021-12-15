@@ -1,0 +1,74 @@
+@font-face {
+  font-family: 'iconfont';  /* Project id 3008067 */
+  src: url('//at.alicdn.com/t/font_3008067_kgbwtfi1h6.woff2?t=1639559604800') format('woff2'),
+       url('//at.alicdn.com/t/font_3008067_kgbwtfi1h6.woff?t=1639559604800') format('woff'),
+       url('//at.alicdn.com/t/font_3008067_kgbwtfi1h6.ttf?t=1639559604800') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-jun4:before {
+  content: "\e604";
+}
+
+.icon-ds:before {
+  content: "\e600";
+}
+
+.icon-gb:before {
+  content: "\e602";
+}
+
+.icon-pokedex:before {
+  content: "\e603";
+}
+
+.icon-youxi:before {
+  content: "\e601";
+}
+
+.icon-Gameboy-:before {
+  content: "\ee3e";
+}
+
+.icon-Gameboy-1:before {
+  content: "\ed74";
+}
+
+.icon-game-boy:before {
+  content: "\e841";
+}
+
+.icon-nintendo3ds:before {
+  content: "\e7a9";
+}
+
+.icon-xiangsu_youxiji:before {
+  content: "\ed27";
+}
+
+.icon-icons-pokemon:before {
+  content: "\ec87";
+}
+
+.icon-youxi-:before {
+  content: "\edcc";
+}
+
+.icon-pokemonegg:before {
+  content: "\ec39";
+}
+
+.icon-pokeball:before {
+  content: "\e61b";
+}
+
+.icon-CatchingPokemonTwoTone:before {
+  content: "\105b1";
+}
